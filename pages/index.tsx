@@ -16,6 +16,9 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a> on Razzo!
         </h1>
+
+        <div className={styles.grid}>
+        </div>
       </main>
 
       <footer className={styles.footer}>
