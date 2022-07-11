@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a> on Razzo!
+          Welcome to <a href="https://nextjs.org">Next.js!</a> on <a href="https://razzo.app">Razzo</a>!
         </h1>
       </main>
 
