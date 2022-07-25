@@ -19,7 +19,6 @@ const Home: NextPage = () => {
         <p>haha</p>
       </main>
 
-
       <footer className={styles.footer}>
           Powered by{' '}
           <span className={styles.logo}>
