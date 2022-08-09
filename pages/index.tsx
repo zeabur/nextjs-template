@@ -17,13 +17,6 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">Next.js!</a> on <a href="https://razzo.app">Razzo</a>!
         </h1>
       </main>
-
-      <footer className={styles.footer}>
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="https://razzo.app/logo.png" alt="Razzo Logo" width={72} height={16} />
-          </span>
-      </footer>
     </div>
   )
 }
