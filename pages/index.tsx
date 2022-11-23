@@ -14,12 +14,17 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a> on <a href="https://razzo.app">Razzo</a>!
+          Welcome to <a href="https://nextjs.org">Next.js</a> on <a href="https://zeabur.com">Zeabur</a>!
         </h1>
       </main>
 
       <footer className={styles.footer}>
-          Powered by Razzo
+        <a href="https://zeabur.com">
+        <img 
+          src="https://zeabur.com/home/logo-with-text-white.svg" 
+          style={{ height: 32 }} 
+        />
+        </a>
       </footer>
     </div>
   )
